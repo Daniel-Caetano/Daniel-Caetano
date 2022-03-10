@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-Caetano
 - 👀 I’m interested in Geek Things 
-- 🌱 I’m currently learning Dev
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me danielcaetano.sf@gmail.com
 
