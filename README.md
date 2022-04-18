@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Daniel-Caetano
 - 👀 I’m interested in Geek Things 
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently working with C# and Vue-JS
 - 💞️ I’m looking to collaborate on anyone
 - 📫 How to reach me danielcaetano.sf@gmail.com
 
